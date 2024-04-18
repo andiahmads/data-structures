@@ -4,6 +4,6 @@ repository ini berisi kontent tentang competitive programing dan struktur data d
 
 mari terhubung di:
 
-x https://twitter.com/DomX05
+X: https://twitter.com/DomX05
 
 linkedin: https://www.linkedin.com/in/andi-ahmad-5b85031a1
