@@ -20,7 +20,5 @@ func maximum_subarray_sum(arr []int, length int) int {
 			best = max(best, sum)
 		}
 	}
-
 	return best
-
 }
